@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Clipboard-Landing-pagen/static/css/main.90f18221.css",
-    "main.js": "/Clipboard-Landing-pagen/static/js/main.4482167c.js",
-    "static/media/image-computer.png": "/Clipboard-Landing-pagen/static/media/image-computer.65db67db202be4e74616.png",
-    "static/media/bg-header-desktop.png": "/Clipboard-Landing-pagen/static/media/bg-header-desktop.3d39ff8e4eec581d1f91.png",
-    "static/media/image-devices.png": "/Clipboard-Landing-pagen/static/media/image-devices.7a9f93355333984b7941.png",
-    "static/media/bg-header-mobile.png": "/Clipboard-Landing-pagen/static/media/bg-header-mobile.611a5565d2de8072be1f.png",
-    "static/media/icon-preview.svg": "/Clipboard-Landing-pagen/static/media/icon-preview.9d260cdcabe46fdc423492bfe2e317cf.svg",
-    "static/media/icon-blacklist.svg": "/Clipboard-Landing-pagen/static/media/icon-blacklist.00461066f8dc77314608696b24ffca29.svg",
-    "static/media/icon-instagram.svg": "/Clipboard-Landing-pagen/static/media/icon-instagram.6916c290ec7f973be569508e95332846.svg",
-    "static/media/icon-text.svg": "/Clipboard-Landing-pagen/static/media/icon-text.72e88c25f84b1cf1d3f69a697f689f64.svg",
-    "index.html": "/Clipboard-Landing-pagen/index.html",
-    "static/media/icon-twitter.svg": "/Clipboard-Landing-pagen/static/media/icon-twitter.09334153919ab7925dce3b54b4b9a815.svg",
-    "static/media/icon-facebook.svg": "/Clipboard-Landing-pagen/static/media/icon-facebook.7e5a10f05d754f6e65372e20a5452d60.svg",
-    "static/media/logo.svg": "/Clipboard-Landing-pagen/static/media/logo.99709bee9527fac7b703e0053be7feda.svg",
-    "main.90f18221.css.map": "/Clipboard-Landing-pagen/static/css/main.90f18221.css.map",
-    "main.4482167c.js.map": "/Clipboard-Landing-pagen/static/js/main.4482167c.js.map"
+    "main.css": "/Clipboard-Landing-page/static/css/main.2a2d355b.css",
+    "main.js": "/Clipboard-Landing-page/static/js/main.930599f8.js",
+    "static/media/image-computer.png": "/Clipboard-Landing-page/static/media/image-computer.65db67db202be4e74616.png",
+    "static/media/bg-header-desktop.png": "/Clipboard-Landing-page/static/media/bg-header-desktop.3d39ff8e4eec581d1f91.png",
+    "static/media/image-devices.png": "/Clipboard-Landing-page/static/media/image-devices.7a9f93355333984b7941.png",
+    "static/media/bg-header-mobile.png": "/Clipboard-Landing-page/static/media/bg-header-mobile.611a5565d2de8072be1f.png",
+    "static/media/icon-preview.svg": "/Clipboard-Landing-page/static/media/icon-preview.9d260cdcabe46fdc423492bfe2e317cf.svg",
+    "static/media/icon-blacklist.svg": "/Clipboard-Landing-page/static/media/icon-blacklist.00461066f8dc77314608696b24ffca29.svg",
+    "static/media/icon-instagram.svg": "/Clipboard-Landing-page/static/media/icon-instagram.6916c290ec7f973be569508e95332846.svg",
+    "static/media/icon-text.svg": "/Clipboard-Landing-page/static/media/icon-text.72e88c25f84b1cf1d3f69a697f689f64.svg",
+    "index.html": "/Clipboard-Landing-page/index.html",
+    "static/media/icon-twitter.svg": "/Clipboard-Landing-page/static/media/icon-twitter.09334153919ab7925dce3b54b4b9a815.svg",
+    "static/media/icon-facebook.svg": "/Clipboard-Landing-page/static/media/icon-facebook.7e5a10f05d754f6e65372e20a5452d60.svg",
+    "static/media/logo.svg": "/Clipboard-Landing-page/static/media/logo.99709bee9527fac7b703e0053be7feda.svg",
+    "main.2a2d355b.css.map": "/Clipboard-Landing-page/static/css/main.2a2d355b.css.map",
+    "main.930599f8.js.map": "/Clipboard-Landing-page/static/js/main.930599f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.90f18221.css",
-    "static/js/main.4482167c.js"
+    "static/css/main.2a2d355b.css",
+    "static/js/main.930599f8.js"
   ]
 }
