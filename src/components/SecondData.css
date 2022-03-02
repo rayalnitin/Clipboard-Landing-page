@@ -1,0 +1,27 @@
+.second{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-top: 10%;
+}
+.second > img{
+    padding-top: 6%;
+}
+@media (max-width:651px) {
+    .second>img{
+        height: 300px;
+    }
+}
+@media (max-width:401px) {
+    .second>img{
+        height: 240px;
+    }
+}
+@media (min-width:652px) and (max-width:800px) {
+    .second>img{
+        height: 450px;
+    }
+}
+
+

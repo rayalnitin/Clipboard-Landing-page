@@ -1,0 +1,31 @@
+.text{
+    color: hsl(201, 11%, 66%);
+    width: 390px;
+    line-height: 30px;
+}
+.part{
+    align-items: center;
+}
+.demo{
+    padding-top: 5%;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    align-items: center;
+}
+.black{
+  padding-top: 20px;
+}
+@media (max-width:651px) {
+    .demo{
+        margin-left: 15px;
+    }
+}
+@media (max-width:900px) {
+    .demo{
+        flex-direction: column;
+    }
+    .part{
+        margin-bottom: 5%;
+    }
+}
